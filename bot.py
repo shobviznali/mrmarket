@@ -5,6 +5,8 @@ from woocommerce import API
 from openai import OpenAI
 import itertools
 
+
+jst = 1
 # Загружаем .env
 load_dotenv()
 
